@@ -5,4 +5,4 @@ Blog Wodpress
   
   Segue o link do blog funcionando
   
-  <a href="http://grupoexplore.com.br/blog/">Blog</a>
+  <a href="http://grupoexplore.com.br/blog/" target="_blank">Blog</a>
