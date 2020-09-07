@@ -2,7 +2,7 @@ Blog Wodpress
 <b><br>
   
   Foi desenvolvimento um blog utilizando o wodpress para o site do grupoexplore
-  
+  <br>
   Segue o link do blog funcionando
-  
-  <a href="http://grupoexplore.com.br/blog/" target="_blank">Blog</a>
+  <br>
+  <a target="_blank" href="http://grupoexplore.com.br/blog/">Blog</a>
