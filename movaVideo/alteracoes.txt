@@ -1,0 +1,3 @@
+Header.php
+
+<?php bloginfo('template_url')?>/images/marca1.png

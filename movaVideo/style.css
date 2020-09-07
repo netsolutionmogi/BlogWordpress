@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+Theme Name: Mova Video
+Author URI: https://www.netsolutionmogi.com/
+Description: Em 2018 foi criado um tema blog personalizado para sites responsivos
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, videos,tema,temas,
+Text Domain: Mova Video
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/* header */
+/* header */
+.header{background:#A6D030;border-top:3px solid #222;padding:22px 0;  }
+.navbar{}
+/* header */
+.slider-noticia{ margin-top:30px;}
+.itens-destaques{margin-top:30px;}
+.nav-tabs > li.active > a:focus { background:#900;}
+
+.width-full-box{ background:#0081BD;padding:30px;margin:30px 0;}
+.title-box h4{background:#0081BD;text-transform:uppercase;color:#fff;padding:10px 0;border-bottom:3px solid #2AB6F7;border-radius:5px;}
+.luta h4{background: #0081BD;border-bottom:3px solid #C9BE2C;color: #fff;}
+.iten-futebol span{text-transform: uppercase;color: #fff;font-weight:bold;font-size: 12px;padding: 10px 0;display: inline-block;}
+.iten-futebol h1{margin:0;font-size: 18px;font-weight: bold;}
+.iten-futebol h1 a {color: #fff;}
+
+#posts-games{}
+#video-home{background:#000;}
+/* vÃ­deo */
+#video-home h1{font-size:20px;text-transform: uppercase;color:#900;}
+
+/* Single/posts */
+.single{padding: 40px 0;}
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+a img.alignright {float:right; margin:0 0 1em 1em}
+a img.alignleft {float:left; margin:0 1em 1em 0}
+a img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.conteudo-single p{font-size: 16px;color: #555;}
+.conteudo-single img{display: block;max-width: 100%;height: auto;}
+.conteudo-single h1{font-weight: 700;color:#900;text-transform: uppercase;}
+.conteudo-single h2{font-weight: 700;color: #069;}
+.conteudo-single h3{font-weight: 700;color: #518C55;}
+.conteudo-single h4{color: #900;}
+.conteudo-single h5{color: #900;}
+.conteudo-single h6{color: #900;}
+.conteudo-single ul{list-style: none;margin: 0;padding: 0;}
+.conteudo-single ul li{padding: 10px 0;text-transform: uppercase;color: #358;}
+.conteudo-single ol{margin: 0;padding: 14px;}
+.conteudo-single ol li{padding: 10px 0;text-transform: uppercase;color: #000;}
+.conteudo-single blockquote{background: #eee;padding: 20px;border-radius: 6px;color: #fff;
+border-left:4px solid #900;}
+
+/* categoria */
+.conteudo-categoria{}
+.conteudo-categoria h4{margin-bottom: 20px;padding: 30px;text-transform: uppercase;color:#900;
+border-radius: 6px;}
+
+/* page */
+.page{padding: 40px 0;}
+.conteudo-page p{font-size: 16px;color: #555;}
+.conteudo-page img{display: block;max-width: 100%;height: auto;}
+.conteudo-page h1{font-weight: 700;color:#fff;text-transform: uppercase;background: #096;padding: 8px;border-radius: 6px;}
+.conteudo-page h2{font-weight: 700;color: #069;}
+.conteudo-page h3{font-weight: 700;color: #518C55;}
+.conteudo-page h4{color: #900;}
+.conteudo-page h5{color: #900;}
+.conteudo-page h6{color: #900;}
+.conteudo-page ul{list-style: none;margin: 0;padding: 0;}
+.conteudo-page ul li{padding: 10px 0;text-transform: uppercase;color: #358;}
+.conteudo-page ol{margin: 0;padding: 14px;}
+.conteudo-page ol li{padding: 10px 0;text-transform: uppercase;color: #000;}
+.conteudo-page blockquote{background: #eee;padding: 20px;border-radius: 6px;color: #fff;border-left:4px solid #900;}
+
+
+/* Sidebar */
+.sidebar{}
+.widget{list-style: none;}
+.widget h2{font-weight: 700;text-transform: uppercase;font-size: 18px;color: #518C55;}
+.widget ul{margin: 0;padding: 0;list-style: none;}
+.widget ul li{padding: 10px 0;}
+.widget p {color: #111;font-size: 15px;}
+
+/* Minha conta */
+.minha-conta li{list-style: none;}
+.minha-conta h2{text-transform: uppercase;color: #900;font-size: 16px;}
+
+/* PÁGINAÇÃO WORDPRESS */
+.page-numbers {
+	display: inline-block;
+	padding: 5px 10px;
+	margin: 0 2px 0 0;
+	border: 1px solid #eee;
+	line-height: 1;
+	text-decoration: none;
+	border-radius: 2px;
+	font-weight: 600;
+}
+.page-numbers.current,
+a.page-numbers:hover {
+	background: #900;
+	color:#fff;
+}
+
+/* footer */
+.footer{margin-top:45px;}
+.footer .title-box h4{background: #A6D030;border-bottom:3px solid #A6D030;}
+.footer-copy{background:#A6D030;padding: 10px 0;color: #fff;margin-top:45px;}
+
+/* Rodape */
+.sobre-rodape{list-style: none;}
+.sobre-rodape h2{font-size: 18px;color:#069;}

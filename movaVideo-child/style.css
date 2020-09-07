@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+Theme Name: Mova Video
+Author URI: https://www.netsolutionmogi.com/
+Description: Em 2018 foi criado um tema blog personalizado para sites responsivos
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, videos,tema,temas,
+Text Domain: Mova Video
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/* header */
+.header{background:#eee;border-top:3px solid #222;padding:22px 0;  }
+.navbar{}
+/* header */
+.slider-noticia{ margin-top:30px;}
+.itens-destaques{margin-top:30px;}
+.nav-tabs > li.active > a:focus { background:#900;}
+
+.width-full-box{ background:#069;padding:30px;margin:30px 0;}
+.title-box h4{background:#165572;text-transform:uppercase;color:#fff;padding:10px 0;border-bottom:3px solid #2AB6F7;border-radius:5px;}
+.luta h4{background: #E5DA39;border-bottom:3px solid #C9BE2C;color: #222;}
+.iten-futebol span{text-transform: uppercase;color: #fff;font-weight:bold;font-size: 12px;padding: 10px 0;display: inline-block;}
+.iten-futebol h1{margin:0;font-size: 18px;font-weight: bold;}
+.iten-futebol h1 a {color: #fff;}
+
+#posts-games{}
+#video-home{background:#000;}
+/* vÃ­deo */
+#video-home h1{font-size:20px;text-transform: uppercase;color:#900;}
+
+/* Minha conta */
+.minha-conta li{list-style: none;}
+.minha-conta h2{text-transform: uppercase;color: #900;font-size: 16px;}
+
+
+/* footer */
+.footer{margin-top:45px;}
+.footer .title-box h4{background: #518C55;border-bottom:3px solid #1A7328;}
+.footer-copy{background:#518C55;padding: 10px 0;color: #fff;margin-top:45px;}
+
+/* Rodape */
+.sobre-rodape{list-style: none;}
+.sobre-rodape h2{font-size: 18px;color:#069;}
